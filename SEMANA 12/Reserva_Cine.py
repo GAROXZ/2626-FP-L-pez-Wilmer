@@ -1,4 +1,4 @@
-# Programa para la gestión y reserva de asientos en una sala de cine
+# Programa para la gestión y reserva de asientos en una sala de cine 
 
 def gestionar_reserva_cine():
     # 1. Creación e inicialización de la matriz (3 filas x 4 columnas) con ceros (asiento libre)
